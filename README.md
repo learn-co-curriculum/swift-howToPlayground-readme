@@ -12,7 +12,7 @@
 
 ## Questions
  
-* Included in the Repo (which you are to work on), I will have already included a Playground file which will act as a template you can write our questions in.
+* Included in the Repo (which you are to work on), I will have already included a Playground file which will act as a template you can write your questions in.
 * This is it how it should end up looking after you've added your questions:
 
 ![complete](http://i.imgur.com/pjYcK8G.png?1)
