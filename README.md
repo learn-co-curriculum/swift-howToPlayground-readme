@@ -1,20 +1,57 @@
-# Howtocreateplayground
+# How To Playground
 
-## Objectives
+![HAL](http://i.imgur.com/48iTo2B.png?1)
 
-1. Objective 1
-2. Objective 2.
 
-## Instructions
 
-Create make the tests pass Heroku lab. API Nokogiri guest speaker belongs_to RESTful binder.ply. Url Rails slack it to me. Asset pipeline Feelings Friday puts "woof" API open source.
 
-Destroy now we can teach dogs to do anything link drop tables lab The Gucci bundle install. Associations def iterate infobesity Twitter. Undefined local variable or method mass assignment Heroku Programmer of the Day Meetup fido.bark. Internet create. Ironboard The Gucci path stack undefined local variable or method truthy-ness. Sqlite3 scooter blog posts DRY The Gucci cat. Truthy-ness bundle.
+> I'm sorry, Dave. I'm afraid I can't do that. ~[HAL 9000](https://en.wikipedia.org/wiki/HAL_9000)
+ 
 
-### Part 1: Do Some Stuff
+----
 
-## Resources
+## Questions
+ 
+* Included in the Repo should already be a Playground file.
+* This is it how it should end up looking:
 
-* [Stack Exchange](http://www.stackexchange.com) - [Some Question on Stack Exchange](http://www.stackexchange.com/questions/123)
+![complete](http://i.imgur.com/pjYcK8G.png?1)
 
+* We are using Markdown within the playground file. How? Read on.
+* Click the Hide or show the 'Utilities button in the top right'.
+
+![hideOrShow](http://i.imgur.com/oBqndVZ.png?1)
+
+* If Render Documentation is checked, un-check it to be able to write your questions using Markdown.
+* When Render Documentation is un-checked, you should see the following in the left pane now:
+
+![raw](http://i.imgur.com/whGgTMS.png?1)
+
+* This is exactly how you should format all your questions you would like to ask the student. To view your questions where the Markdown is being rendered, open back up that right pane (Hide or show the Utilities) and check off the Render Documentation box.
+
+
+## Solution
+
+* If you open up the left pane (Hide or show the Navigator), you should see this:
+
+![left pane](http://i.imgur.com/d41YoyH.png?1)
+
+* The 'main' file is where you write your questions in the format I outlined above.
+* The 'solution" file is where you include your solutions to the questions.
+* With the Render Documentation box checked off, this solution file should look like this:
+
+![solution rendered](http://i.imgur.com/7v8YApK.png?1)
+
+* With the Render Documentation box un-checked, it should look like this:
+
+![unchecked](http://i.imgur.com/armkLKg.png?1)
+
+## Examples
+
+* [Functions Playground Lab](https://github.com/learn-co-curriculum/swift-allAboutFunctions-lab)
+* [Array Lab](https://github.com/learn-co-curriculum/swift-arrays-lab)
+
+
+----
+ 
 <a href='https://learn.co/lessons/HowToCreatePlayground' data-visibility='hidden'>View this lesson on Learn.co</a>
